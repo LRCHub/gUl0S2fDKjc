@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "どこまでも",
+  "base_artist": "Lot",
+  "createdAt": "2025-12-01T13:53:56.321808Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "線路はつづくよ どこまでも",
+      "artist": "ひばり児童合唱団",
+      "has_synced": true,
+      "path": "select/01_線路はつづくよ_どこまでも_ひばり児童合唱団.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "どこまでも ~How Far I'll Go~ (エンドソング)",
+      "artist": "加藤ミリヤ",
+      "has_synced": true,
+      "path": "select/02_どこまでも_~How_Far_I'll_Go~_(エンドソング)_加藤ミリヤ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "どこまでも響くハラショー",
+      "artist": "響(CV.洲崎綾)",
+      "has_synced": false,
+      "path": "select/pl_01_どこまでも響くハラショー_響(CV.洲崎綾).txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "どこまでも響くハラショー",
+      "artist": "響(CV.洲崎綾)",
+      "has_synced": false,
+      "path": "select/pl_02_どこまでも響くハラショー_響(CV.洲崎綾).txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "どこまでも shining sky!!!",
+      "artist": "響(CV.洲崎綾)",
+      "has_synced": false,
+      "path": "select/pl_03_どこまでも_shining_sky!!!_響(CV.洲崎綾).txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "どこまでも",
+      "artist": "響(CV.洲崎綾)",
+      "has_synced": false,
+      "path": "select/pl_04_どこまでも_響(CV.洲崎綾).txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "どこまでもいこう",
+      "artist": "響(CV.洲崎綾)",
+      "has_synced": false,
+      "path": "select/pl_05_どこまでもいこう_響(CV.洲崎綾).txt"
+    }
+  ]
+}
